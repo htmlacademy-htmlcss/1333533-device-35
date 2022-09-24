@@ -1,8 +1,8 @@
 # Личный проект «Девайс»
 
 * Студент: [Oleg Lobanov](https://up.htmlacademy.ru/htmlcss/35/user/1333533).
-* Наставник: Кенан Агаев
-.
+* Наставник: [Кенан Агаев] (https://htmlacademy.ru/profile/kenakula)
+
 
 ---
 
